@@ -1,0 +1,78 @@
+[
+    {
+      "id": "INFTEST1",
+      "guid": "bda45042-e4e9-5dfa-8c1a-d3bb76346371",
+      "name": "INFORCERTEST"
+    },
+    {
+      "id": "INFTEST2",
+      "guid": "55f5eddb-085f-54e6-8804-02912b38f0ff",
+      "name": "INFORCERTEST2"
+    },
+    {
+      "id": 3,
+      "guid": "7c00c05f-c092-5a20-bcae-e4fa99972c97",
+      "name": "Golden Gate Hospitality"
+    },
+    {
+      "id": 4,
+      "guid": "5c666821-8ade-5ae6-9e66-052935fc6ba1",
+      "name": "All-Star Athletics"
+    },
+    {
+      "id": 5,
+      "guid": "ba49aff5-1d38-5c03-9edd-5fe3e36013e2",
+      "name": "Harmony Resorts"
+    },
+    {
+      "id": 6,
+      "guid": "e6e32e7f-2db0-5f80-89b8-6bc0a7563169",
+      "name": "Terra Firma Realty"
+    },
+    {
+      "id": 7,
+      "guid": "f6c7dd5e-f5b6-5b91-bf68-654fbfd7452d",
+      "name": "Victory Financials"
+    },
+    {
+      "id": 8,
+      "guid": "2bcc0f5b-4ed4-520f-b52e-a6086f1c3b03",
+      "name": "Sapphire Events"
+    },
+    {
+      "id": 9,
+      "guid": "c87b5831-ee6c-5b43-aa58-742269384173",
+      "name": "Grandeur Hotels"
+    },
+    {
+      "id": 10,
+      "guid": "c03ca265-b31d-5e75-a564-a76bed1355a2",
+      "name": "Amber Airlines"
+    },
+    {
+      "id": 11,
+      "guid": "4300ac88-0b70-56ee-9300-6468f4151798",
+      "name": "Silverado Securities"
+    },
+    {
+      "id": 12,
+      "guid": "1eb1f4f2-4941-58ba-8cde-d36fd0f72405",
+      "name": "Emerald Experiences"
+    },
+    {
+      "id": 13,
+      "guid": "5f115962-8531-5f82-8b51-11bd771ab015",
+      "name": "Opulent Outfitters"
+    },
+    {
+      "id": 14,
+      "guid": "8f6bec43-144b-5059-94bd-444c1bf38c9d",
+      "name": "Platinum Partners"
+    },
+    {
+      "id": 15,
+      "guid": "b5b1ea64-5373-56ef-93e3-7c8b79d6c355",
+      "name": "Ruby Rides"
+    }
+  ]
+  
